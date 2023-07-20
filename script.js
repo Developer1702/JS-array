@@ -1,5 +1,3 @@
-let x = prompt()
-
 let str ="Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur, mollitia?";
 let array = str.split("");
 
@@ -11,6 +9,3 @@ for (let i =0; i < array.length; i++) {
 }
 
 console.log(box);
-
-
-
